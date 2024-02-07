@@ -1,0 +1,6 @@
+<Maze>
+  <Room type="mitipo" id="0">
+    <Door type="mitipo" id="0" is_Open="false" room1="1" room2= "2"></Door>
+    <Wall type="mitipo" id="0"></Wall>
+  </Room>
+</Maze>

@@ -1,0 +1,11 @@
+{ 
+	"Maze" :
+	{ 
+		"Room" : 
+		{ 
+			"Type" : "mitipo", "id" : 0, 
+			"Door" : { "Type" : "mitipo", "id" : 0, "is_Open" : false,  "Room1" : 1, "Room2" : 2},
+			"Wall" : { "Type" : "mitipo", "id" : 0} 
+		}
+	}
+}
